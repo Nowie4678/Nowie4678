@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! I'm Noel Kabaka
+
+I am  an**aspiring Software Enginerr** passionate about building clean,efficient and user-centric applications.I love solving real-world problems through code.
+
+**Technical Toolkit*
+
+****Programming***C++,**Javascript**,SQL
+**Design** HTML,CSS,UI/UX design
+**Core Competencies**Excellent communication skills,logical problem solving and adaptive learning
+
+**Let's connect :** I am always open to discussing new software engineering opportunities, design collaborations or coding challenges
 
 <!--
 **Nowie4678/Nowie4678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
