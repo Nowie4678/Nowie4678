@@ -66,7 +66,7 @@ flowchart LR
 - Built with HTML, CSS and JavaScript, with Home, Services, Team, Reviews, FAQ and Contact sections
 - Calls to action: Book Now, Book Appointment, Order on WhatsApp, Call, and a promo code banner
 - Published for free with GitHub Pages
-
+<img width="960" height="540" alt="2026-11-21 (8)" src="https://github.com/user-attachments/assets/ed99decc-4c6d-492a-ac6d-cff6870d5e25" />
 **The management system** (C#, Windows Forms, SQL Server LocalDB)
 - **Database:** designed tables for appointments, clients, services, billing and staff
 - **Appointments:** booking form with validation and a check that stops a stylist being booked twice at the same time
@@ -76,7 +76,7 @@ flowchart LR
 - **Reports:** revenue, appointments and top service for any date range, with print and PDF export
 - **Dashboard:** today's appointments and income at a glance
 - All database queries use parameters, and the app checks every input before saving
-<img width="953" height="459" alt="image" src="https://github.com/user-attachments/assets/68e51b3f-eac9-405c-bb46-af66b8c09eac" />
+
 
 ### Tech stack
 ![Tech](https://skillicons.dev/icons?i=cpp,cs,js,html,css,mysql,github,visualstudio)
@@ -112,8 +112,6 @@ flowchart LR
 I'm open to projects that push the boundaries of innovation. Drop me a message:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelmunyuma@gmail.com)
-<img width="960" height="540" alt="2026-11-21 (8)" src="https://github.com/user-attachments/assets/ed99decc-4c6d-492a-ac6d-cff6870d5e25" />
-<img width="960" height="540" alt="2026-11-21 (8)" src="https://github.com/user-attachments/assets/f52173aa-6241-4bbb-ba9f-be6ee44f235d" />
 
 
 📞 **0717218062**
