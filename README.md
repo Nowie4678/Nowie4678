@@ -11,7 +11,7 @@ I build clean, efficient, user-friendly systems that solve real problems for sma
 ## 🌱 About me
 I studied **Applied Computing** and learnt **C++**, where I built a burger system. I kept growing through **freeCodeCamp** and went on to build a full salon platform, Luxe Studio, with a public website and a management system behind it.
 
-✏️ *Add one line about what your burger system did (for example, taking orders or calculating totals).*
+
 
 ## 🎯 Target roles
 - Web Developer
