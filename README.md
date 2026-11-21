@@ -111,7 +111,8 @@ flowchart LR
 ## 📫 Let's connect
 I'm open to projects that push the boundaries of innovation. Drop me a message:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelmunyuma@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](noelmunyuma@gmail.com)  
 
+  noelmunyuma@gmail.com
 
 📞 **0717218062**
